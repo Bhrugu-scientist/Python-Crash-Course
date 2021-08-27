@@ -6,4 +6,4 @@
 
 ***I will also some fun exercises to practice to practice the chapters.
 
-***Let's go. Chapter 2 teaches you how to talk to a girl confidently using Python. 
+***Everything is self-explanatory. 
